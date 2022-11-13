@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Pd-nicolas
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML and CSS (computer science)
-- 💞️ I’m looking to collaborate on uol
-- 📫 How to reach me (instagram: pd_nicolas) 
-- starting java lang
+- 🌱 I’m currently learning HTML, CSS and javaScript (computer science)
+- 📫 How to reach me Email: pedronicks25@gmail.com or instagram: pd_nicolas 
+- 💻 starting java lang
 
 <!---
 Pd-nicolas/Pd-nicolas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
