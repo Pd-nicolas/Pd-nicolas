@@ -8,7 +8,7 @@ Welcome to my GitHub repository! I am a Full-stack Developer with expertise in A
 
 You can reach out to me through the following channels:
 
-- LinkedIn: [pedro-silva](https://www.linkedin.com/in/pedro-silva-45369422b/)
+- LinkedIn: [pedro-silva](https://www.linkedin.com/in/pedro-nicolas-silva-45369422b/)
 - Email: pedronicks25@gmail.com
 
 ## Objective
