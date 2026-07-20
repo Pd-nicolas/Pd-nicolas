@@ -1,45 +1,93 @@
-# Pedro Nicolas Developer Portfolio
+# Portfólio de Desenvolvedor — Pedro Nicolas
 
-## Overview
+## Visão Geral
 
-Welcome to my GitHub repository! I am a Full-stack Developer with expertise in Angular and Spring Boot. This repository serves as my portfolio, showcasing some of my projects and contributions to the developer community.
+Bem-vindo ao meu repositório no GitHub!
 
-## Contact
+Sou Desenvolvedor Full Stack, com foco em Angular e Spring Boot. Este repositório funciona como meu portfólio profissional, reunindo alguns dos projetos em que atuei, além de contribuições e estudos voltados para a comunidade de desenvolvimento de software.
 
-You can reach out to me through the following channels:
+## Contato
 
-- LinkedIn: [pedro-silva](https://www.linkedin.com/in/pedro-nicolas-silva-45369422b/)
-- Email: pedronicks25@gmail.com
+Você pode entrar em contato comigo pelos seguintes canais:
 
-## Objective
+- **LinkedIn:** https://www.linkedin.com/in/pedro-nicolas-silva-45369422b/
+- **E-mail:** pedronicolasdev@gmail.com
 
-As a Full-stack Developer, my objective is to create innovative and efficient web applications using cutting-edge technologies. I am passionate about building robust and scalable solutions to solve real-world problems.
+## Objetivo
 
-## Work Experience
+Como Desenvolvedor Full Stack, meu objetivo é criar aplicações web modernas, escaláveis e eficientes utilizando as melhores práticas e tecnologias atuais. Tenho paixão por desenvolver soluções robustas que resolvam problemas reais e gerem impacto positivo para usuários e organizações.
 
-### Back-end Developer — Prefeitura de Belém / Belém Digital (Cinbesa)  
-*May 2023 – Present*
+## Experiência Profissional
 
-I work as a back-end developer specializing in Spring Boot, contributing to key projects within the Prefeitura de Belém, under the Belém Digital Secretariat (Cinbesa). My role involves developing and maintaining applications that support public administration and improve citizen services.
+### Desenvolvedor Back-end — Prefeitura de Belém / Belém Digital (Cinbesa)
 
-## Projects
+**Maio de 2023 – Atual**
 
-Here are some of the projects I've worked on:
+Atuo como desenvolvedor back-end utilizando Spring Boot, participando do desenvolvimento e da manutenção de sistemas estratégicos da Prefeitura de Belém, por meio da Belém Digital (Cinbesa).
 
-- **Prometas**: A system for tracking and managing public goals.  
-  [Access here](https://sistemas.belem.pa.gov.br/pro-metas/#/login)  
-- **Agiliza**: A platform designed to optimize administrative processes.  
-  [Access here](https://sistemas.belem.pa.gov.br/agiliza/#/)  
-- **Consulta Pública**: A portal for public data transparency and consultation.  
-  [Access here](https://sistemas.belem.pa.gov.br/consultapublica/#/publico/home)
+Meu trabalho envolve a criação de novas funcionalidades, integrações entre sistemas, desenvolvimento de APIs REST, otimização de desempenho e manutenção de aplicações que apoiam a administração pública e contribuem para melhorar os serviços oferecidos aos cidadãos.
 
-## Skills
+## Projetos
 
-I specialize in the following technologies and skills:
+Alguns dos projetos em que participei:
 
-- Front-end Development: Angular, HTML, CSS, JavaScript
-- Back-end Development: Spring Boot, Java
-- Database Management: SQL
-- RESTful API Development
-- Version Control: Git
-- Agile Software Development
+### 🚀 Prometas
+Sistema para acompanhamento e gerenciamento de metas da administração pública.
+
+🔗 https://sistemas.belem.pa.gov.br/pro-metas/#/login
+
+---
+
+### 🚀 Agiliza
+Plataforma desenvolvida para otimizar processos administrativos da Prefeitura de Belém.
+
+🔗 https://sistemas.belem.pa.gov.br/agiliza/#/
+
+---
+
+### 🚀 Consulta Pública
+Portal voltado à transparência e consulta de informações públicas.
+
+🔗 https://sistemas.belem.pa.gov.br/consultapublica/#/publico/home
+
+## Competências
+
+### 💻 Front-end
+
+- Angular
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+
+### ⚙️ Back-end
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Spring Security
+- Desenvolvimento de APIs REST
+
+### 🗄️ Banco de Dados
+
+- SQL
+- PostgreSQL
+- MySQL
+- H2
+
+### 🛠️ Ferramentas e Metodologias
+
+- Git
+- Docker
+- Maven
+- Scrum
+- Kanban
+
+---
+
+## Vamos nos conectar!
+
+Se você deseja conversar sobre desenvolvimento de software, tecnologia ou oportunidades profissionais, fique à vontade para entrar em contato.
+
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-nicolas-silva-45369422b/
+- 📧 E-mail: pedronicolasdev@gmail.com
