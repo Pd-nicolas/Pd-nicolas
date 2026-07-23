@@ -1,93 +1,155 @@
 # Portfólio Desenvolvedor Back-end Java — Pedro Nicolas
 
-## Visão Geral
+<h1 align="center">Pedro Nicolas</h1>
 
-Bem-vindo ao meu repositório no GitHub!
+<h3 align="center">
+Desenvolvedor Back-end Java • Spring Boot • APIs REST • Microsserviços
+</h3>
 
-Sou Desenvolvedor Full Stack, com foco em Angular e Spring Boot. Este repositório funciona como meu portfólio profissional, reunindo alguns dos projetos em que atuei, além de contribuições e estudos voltados para a comunidade de desenvolvimento de software.
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedronicolassilva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## Contato
+  <a href="mailto:pedronicolasdev@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-Você pode entrar em contato comigo pelos seguintes canais:
+---
 
-- **LinkedIn:** https://www.linkedin.com/in/pedro-nicolas-silva-45369422b/
-- **E-mail:** pedronicolasdev@gmail.com
+# 👨‍💻 Sobre mim
 
-## Objetivo
+Sou Desenvolvedor Back-end Java com experiência no desenvolvimento de sistemas corporativos para a administração pública.
 
-Como Desenvolvedor Full Stack, meu objetivo é criar aplicações web modernas, escaláveis e eficientes utilizando as melhores práticas e tecnologias atuais. Tenho paixão por desenvolver soluções robustas que resolvam problemas reais e gerem impacto positivo para usuários e organizações.
+Atualmente atuo na **Belém Digital (Cinbesa)**, desenvolvendo APIs REST, integrações entre sistemas e novas funcionalidades utilizando **Java**, **Spring Boot**, **PostgreSQL** e **Angular**.
 
-## Experiência Profissional
+Tenho grande interesse em Arquitetura de Software, Microsserviços, Cloud Computing e boas práticas de desenvolvimento, buscando sempre construir aplicações escaláveis, seguras e de alta qualidade.
 
-### Desenvolvedor Back-end — Prefeitura de Belém / Belém Digital (Cinbesa)
+---
 
-**Maio de 2023 – Atual**
+## 🚀 Atualmente
 
-Atuo como desenvolvedor back-end utilizando Spring Boot, participando do desenvolvimento e da manutenção de sistemas estratégicos da Prefeitura de Belém, por meio da Belém Digital (Cinbesa).
+- 💼 Desenvolvedor Back-end na Belém Digital (Cinbesa)
+- ☕ Desenvolvendo APIs REST com Spring Boot
+- 🌱 Estudando Microsserviços, Kubernetes e Cloud
+- 📚 Aperfeiçoando conhecimentos em Arquitetura de Software
 
-Meu trabalho envolve a criação de novas funcionalidades, integrações entre sistemas, desenvolvimento de APIs REST, otimização de desempenho e manutenção de aplicações que apoiam a administração pública e contribuem para melhorar os serviços oferecidos aos cidadãos.
+---
 
-## Projetos
+## 💻 Tecnologias e Ferramentas
 
-Alguns dos projetos em que participei:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,git,github,maven,jenkins,idea,vscode,angular,ts,postman&perline=7"/>
+</p>
 
-### 🚀 Prometas
-Sistema para acompanhamento e gerenciamento de metas da administração pública.
+---
+
+## 💼 Experiência Profissional
+
+### Desenvolvedor Back-end Java
+
+**Belém Digital (Cinbesa)**
+
+**Maio/2023 – Atual**
+
+Principais atividades:
+
+- Desenvolvimento de APIs REST utilizando Spring Boot;
+- Implementação de novas funcionalidades;
+- Integração entre sistemas;
+- Manutenção de aplicações corporativas;
+- Desenvolvimento de regras de negócio;
+- Otimização de consultas SQL;
+- Versionamento com Git;
+- Participação em cerimônias Scrum.
+
+---
+
+## 🚀 Projetos
+
+### Prometas
+
+Sistema para gerenciamento e acompanhamento de metas da Prefeitura de Belém.
 
 🔗 https://sistemas.belem.pa.gov.br/pro-metas/#/login
 
 ---
 
-### 🚀 Agiliza
-Plataforma desenvolvida para otimizar processos administrativos da Prefeitura de Belém.
+### Agiliza
+
+Sistema para otimização de processos administrativos.
 
 🔗 https://sistemas.belem.pa.gov.br/agiliza/#/
 
 ---
 
-### 🚀 Consulta Pública
-Portal voltado à transparência e consulta de informações públicas.
+### Consulta Pública
+
+Portal destinado à transparência e consulta de informações públicas.
 
 🔗 https://sistemas.belem.pa.gov.br/consultapublica/#/publico/home
 
-## Competências
+---
 
-### 💻 Front-end
-
-- Angular
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-
-### ⚙️ Back-end
+## ⚡ Stack Principal
 
 - Java
 - Spring Boot
 - Spring Data JPA
+- Hibernate
 - Spring Security
-- Desenvolvimento de APIs REST
-
-### 🗄️ Banco de Dados
-
-- SQL
 - PostgreSQL
 - MySQL
-- H2
-
-### 🛠️ Ferramentas e Metodologias
-
-- Git
 - Docker
-- Maven
-- Scrum
-- Kanban
+- Jenkins
+- Git
+- Angular
+- REST APIs
 
 ---
 
-## Vamos nos conectar!
+## 🎯 Áreas de Interesse
 
-Se você deseja conversar sobre desenvolvimento de software, tecnologia ou oportunidades profissionais, fique à vontade para entrar em contato.
+✔ Microsserviços
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pedro-nicolas-silva-45369422b/
+✔ Arquitetura de Software
+
+✔ APIs REST
+
+✔ Integração entre Sistemas
+
+✔ Clean Code
+
+✔ Testes Automatizados
+
+✔ Performance
+
+✔ Segurança de APIs
+
+✔ Cloud Computing
+
+---
+
+## 📚 Atualmente estudando
+
+- Microsserviços com Spring Cloud
+- Kubernetes
+- AWS
+- Arquitetura Hexagonal
+- Design Patterns
+- Testes Automatizados
+- CI/CD
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/pedro-nicolas-silva-45369422b/](https://www.linkedin.com/in/pedronicolassilva/)
 - 📧 E-mail: pedronicolasdev@gmail.com
+
+---
+
+<p align="center">
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
+</p>
