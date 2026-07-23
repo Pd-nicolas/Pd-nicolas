@@ -1,10 +1,6 @@
-# Portfólio Desenvolvedor Back-end Java — Pedro Nicolas
-
-<h1 align="center">Pedro Nicolas</h1>
-
-<h3 align="center">
+<h2 align="center">
 Desenvolvedor Back-end Java • Spring Boot • APIs REST • Microsserviços
-</h3>
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedronicolassilva/">
